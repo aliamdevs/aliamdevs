@@ -1,5 +1,9 @@
 ## Hi There 👋 , I'm Aliamdevs.
-#### Frontend Senior. → [![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
+#### Frontend Senior.
+[![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
+[![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
+[![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
+[![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
 
 
 #### Expo & React Native Expert. [![](https://badgen.net/static/Swift/4.2/orange?icon=github)](https://myapp.vercel.app)
