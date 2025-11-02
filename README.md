@@ -1,10 +1,12 @@
 ## Hi There 👋 , I'm Aliamdevs.
+#### Software Engineer.
+[![](https://img.shields.io/badge/Light%20Huffman-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/light-huffman)
+[![](https://img.shields.io/badge/psyncer-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/psyncer))
 #### Frontend Senior.
 [![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
 [![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
 [![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
 [![](https://img.shields.io/badge/Turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker)
-
 
 #### Expo & React Native Expert. [![](https://badgen.net/static/Swift/4.2/orange?icon=github)](https://myapp.vercel.app)
 #### Next & Express Js Dev.
