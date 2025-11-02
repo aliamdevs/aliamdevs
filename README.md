@@ -1,5 +1,11 @@
 ## Hi There 👋 , I'm Aliamdevs.
-#### Frontend Senior.   [![](https://badgen.net/static/Turnpicker/js/yellow?icon=github)](https://github.com/aliamdevs/turnpicker)
+#### Frontend Senior. → [
+  [![](https://badgen.net/static?icon=github)](https://github.com/aliamdevs/turnpicker)
+
+  [![](https://badgen.net/static/Turnpicker/js/yellow?icon=github)](https://github.com/aliamdevs/turnpicker)
+] 
+
+
 #### Expo & React Native Expert. [![](https://badgen.net/static/Swift/4.2/orange?icon=github)](https://myapp.vercel.app)
 #### Next & Express Js Dev.
 #### MangoDB Arch.
