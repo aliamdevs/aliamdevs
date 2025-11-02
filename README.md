@@ -1,6 +1,12 @@
-# My Portfolio
-### Hi There 👋 , I'm Aliamdevs. 
+### Hi There 👋 , I'm Aliamdevs.
+#### Frontend Senior. 
+#### Expo & React Native Expert.
+#### Next & Express Js Dev.
+#### MangoDB Arch.
+#### Microcontrollers & Arduino Fan.
+#### UI/UX Des.
 
+#### So I Have Some Open-Source Projects & Some Private Projects 
 
 
 <!--
