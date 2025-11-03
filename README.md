@@ -1,5 +1,5 @@
-## Hi 👋 , I'm Ali & These Are Some of My Legacies
-#### Software Engineer.
+## Hi I'm Ali & These Are Some of My Legacies 👋
+#### Software Engineer. 
 [![](https://img.shields.io/badge/Light%20Huffman-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/light-huffman)
 [![](https://img.shields.io/badge/psyncer-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/psyncer)
 #### Frontend Senior.
