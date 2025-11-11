@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/-CB3837?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/aliamdevs/psycho-sync)
 [![](https://img.shields.io/badge/psyncer%20sync-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/psycho-sync)
 #### UI/UX Des.
-[![](https://img.shields.io/badge/DATA%20SHELL%20UI%20DOCs-533ac2?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/aliamdevs/data-shell)
+[![](https://img.shields.io/badge/DATA%20SHELL%20UI%20DOCs-5153c2?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/aliamdevs/data-shell)
 
 
 <!--
