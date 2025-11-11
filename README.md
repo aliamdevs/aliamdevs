@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/psyncer-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/psyncer)
 #### Frontend Senior.
 [![](https://img.shields.io/badge/react%20turnpicker-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/react-turnpicker)
+[![](https://img.shields.io/badge/20%-212121)](https://www.npmjs.com/package/@aliamdevs/data-shell)
+[![](https://img.shields.io/badge/-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@aliamdevs/data-shell)
+[![](https://img.shields.io/badge/Data%20Shell-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/data-shell)
 <!-- [![](https://img.shields.io/badge/Farshat-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/turnpicker) -->
 <!-- [![](https://img.shields.io/badge/HELLOWORLD-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/aliamdevs/turnpicker) --->
 #### Expo & React Native Expert.
@@ -13,6 +16,7 @@
 #### Microcontrollers & Arduino Fan.
 [![](https://img.shields.io/badge/psyncer%20sync-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/psycho-sync)
 #### UI/UX Des.
+[![](https://img.shields.io/badge/DATA%20SHELL%20UI-8c5cdf?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/aliamdevs/data-shell)
 
 
 <!--
