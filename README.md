@@ -19,10 +19,14 @@
 #### Next & Express Dev.
 #### MangoDB Arch.
 #### Microcontrollers & Arduino Fan.
-[![](https://img.shields.io/badge/-CB3837?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/aliamdevs/psycho-sync)
 [![](https://img.shields.io/badge/psyncer%20sync-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/psycho-sync)
 #### UI/UX Des.
-[![](https://img.shields.io/badge/DATA%20SHELL%20UI%20DOCs-5153c2?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/aliamdevs/data-shell)
+[![](https://img.shields.io/badge/DATA%20SHELL%20UI%20DOCs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/aliamdevs/data-shell)
+[![](https://img.shields.io/badge/20%-212121)](#)
+[![](https://img.shields.io/badge/20%-212121)](#)
+[![](https://img.shields.io/badge/20%-212121)](#)
+[![](https://img.shields.io/badge/-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@aliamdevs/airy-icons)
+[![](https://img.shields.io/badge/Airy%20Icons-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliamdevs/airy-icons)
 
 
 <!--
